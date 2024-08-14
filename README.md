@@ -22,7 +22,7 @@ I'm an emerging **Cybersecurity Analyst** with a strong foundation in network se
   - Virtualization: VMware, VirtualBox
 
 ## 🎓 Education
-- **Google Cybersecurity Certificate:** [View My Badge]([https://coursera.org/share/50445a51f2d86a5ce8822e0c3e70fb50](https://www.credly.com/badges/6b98b7e2-1cbd-4a43-bc22-540c0c37dffa/public_url))
+- **Google Cybersecurity Certificate:** [View My Badge](https://www.credly.com/badges/6b98b7e2-1cbd-4a43-bc22-540c0c37dffa/public_url)
 - **CS50: Introduction to Computer Science | Harvard University**
 - **Web Development Diploma | College of the North Atlantic**
 
