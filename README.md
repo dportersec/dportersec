@@ -1,37 +1,56 @@
-# Hi, I'm Dillon Porter 👋
+# 👋 Hi, I’m Dillon Porter
 
-I'm an emerging **Cybersecurity Analyst** with a strong foundation in network security, incident response, and SIEM tools. With a background in web development and recent completion of the **Google Cybersecurity Certificate** on Coursera, I'm committed to securing digital spaces and continuously expanding my cybersecurity skill set.
+I’m an **Entry-Level SOC Analyst** with hands-on experience in **SIEM monitoring, log analysis, and incident response**, backed by a strong technical foundation in systems and secure application practices. I’m **CompTIA Security+ (SY0-701) certified** and actively building practical blue-team skills through labs and projects.
 
-## 🔒 Cybersecurity Journey
-- **Completed:** [Google Cybersecurity Certificate on Coursera](https://coursera.org/share/50445a51f2d86a5ce8822e0c3e70fb50) 
-- **Project Highlight:** Developed a **Log File Analyzer** tool in Python to detect suspicious activities by analyzing web server logs. [View Project](#)
-- **Currently Studying:** Preparing for the **CompTIA Security+** certification exam to solidify my understanding of core cybersecurity concepts.
+---
 
-## 🚀 Skills & Tools
-- **Cybersecurity:**
-  - SIEM: Elastic SIEM, Kibana, Splunk
-  - Incident Response & Threat Detection
-  - Network Security & Traffic Analysis: Suricata, Wireshark
-  - Log Analysis & Monitoring
-  - Security Event Simulation: Nmap
-- **Technical:**
-  - Operating Systems: Linux (Kali, Ubuntu), Windows
-  - Scripting: Python, Bash
-  - Web Technologies: HTML, CSS, JavaScript, Node.js, React.js
-  - Database Management: SQL
-  - Virtualization: VMware, VirtualBox
+## 🔐 Cybersecurity Focus
+- **Certification:** CompTIA Security+ (SY0-701) — Certified  
+- **Training:** Google Cybersecurity Certificate (Coursera)  
+- **Hands-on Experience:** SIEM monitoring, alert triage, log analysis, incident response workflows  
+- **Background:** Web development with security-focused configuration and system hardening  
 
-## 🎓 Education
-- **Google Cybersecurity Certificate:** [View My Badge](https://www.credly.com/badges/6b98b7e2-1cbd-4a43-bc22-540c0c37dffa/public_url)
-- **CS50: Introduction to Computer Science | Harvard University**
-- **Web Development Diploma | College of the North Atlantic**
+---
 
-## 🌱 Continuous Learning
-I'm passionate about continuously improving my skills in cybersecurity. My learning journey includes hands-on projects like setting up an Elastic SIEM home lab, and I’m currently preparing for the CompTIA Security+ certification to enhance my knowledge in network security, incident response, and more.
+## 🛠️ Skills & Tools
 
-## 💼 Let's Connect!
-I'm actively seeking opportunities in the cybersecurity field. If you're interested in connecting, feel free to reach out:
-- **LinkedIn:** [Dillon Porter](https://linkedin.com/in/dillon-porter)
-- **Email:** dillonporter@hotmail.com
+### **Security Operations**
+- SIEM: **Splunk, Elastic SIEM, Kibana**
+- Incident Response & Alert Triage
+- Log Analysis & Event Correlation
+- Network Traffic Analysis: **Wireshark, Suricata**
+- Security Event Simulation: **Nmap**
+- SOC Case Management: **TheHive**
 
-Looking forward to contributing to a secure digital world!
+### **Technical**
+- Operating Systems: Linux (Kali, Ubuntu), Windows
+- Scripting: **PowerShell**, Python (basic), Bash
+- Virtualization: VMware, VirtualBox
+- Web Technologies (background): HTML, CSS, JavaScript
+- Databases: SQL
+
+---
+
+## 🧪 Selected Projects
+- **Elastic SIEM Home Lab** – Simulated brute-force and unauthorized access events; created dashboards and alert rules; investigated 50+ security events  
+- **Splunk SOC Simulation (Forage – Commonwealth Bank)** – Built dashboards, triaged alerts, documented incidents, and practiced containment and recovery  
+- **PowerShell Digital Forensics** – Automated log and artifact collection to identify unauthorized file system changes  
+
+*(Pinned repositories below highlight these projects.)*
+
+---
+
+## 🎓 Education & Training
+- **CompTIA Security+ (SY0-701)** — Certified  
+- **Google Cybersecurity Certificate** — Coursera  
+- **CS50: Introduction to Computer Science** — Harvard University  
+- **Diploma in Web Development** — College of the North Atlantic  
+
+---
+
+## 📫 Let’s Connect
+- **LinkedIn:** https://linkedin.com/in/dillon-porter  
+- **Portfolio:** https://sites.google.com/view/dillonporter/home  
+- **Email:** dillonporter@hotmail.com  
+
+---
